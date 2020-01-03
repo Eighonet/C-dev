@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\eigho\desktop\code & rock'n'roll\algorythms-i-structures\quicksort_i\quicksort_i\source.cpp(2): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\eigho\desktop\code & rock'n'roll\algorythms-i-structures\quicksort_i\quicksort_i\source.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  QuickSort_I.vcxproj -> C:\Users\eigho\Desktop\Code & Rock'n'Roll\Algorythms-I-Structures\QuickSort_I\Release\QuickSort_I.exe
