@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/2.a+b/cmake-build-debug/CMakeFiles/2_a_b.dir/embed.manifest"

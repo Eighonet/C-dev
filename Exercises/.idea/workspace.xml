@@ -9,7 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee9c7058-2bd8-4452-977b-47eb6226c204" name="Default Changelist" comment="" />
+    <list default="true" id="88d7e111-cb19-44f4-b9e7-017173255696" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +21,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1VsryYoW6NpmD0jLvfAMycvJITg" />
+  <component name="ProjectId" id="1Wr6vlBwsqRWrvNQrCQIhTV5L0E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,12 +46,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ee9c7058-2bd8-4452-977b-47eb6226c204" name="Default Changelist" comment="" />
-      <created>1578052899809</created>
+      <changelist id="88d7e111-cb19-44f4-b9e7-017173255696" name="Default Changelist" comment="" />
+      <created>1579895598536</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1578052899809</updated>
-      <workItem from="1578052907000" duration="57000" />
+      <updated>1579895598536</updated>
+      <workItem from="1579895599981" duration="749000" />
     </task>
     <servers />
   </component>
@@ -59,9 +59,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="412" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1578052945165">
-      <screen x="65" y="0" width="1301" height="768" />
+    <state x="496" y="127" key="FileChooserDialogImpl" timestamp="1579895749562">
+      <screen x="67" y="0" width="1299" height="768" />
     </state>
-    <state x="412" y="209" key="com.intellij.ide.util.TipDialog/65.0.1301.768@65.0.1301.768" timestamp="1578052945165" />
+    <state x="496" y="127" key="FileChooserDialogImpl/67.0.1299.768@67.0.1299.768" timestamp="1579895749562" />
   </component>
 </project>

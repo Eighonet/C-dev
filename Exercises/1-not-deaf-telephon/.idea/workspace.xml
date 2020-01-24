@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="not_deaf_telephon" targetName="not_deaf_telephon" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug-Visual Studio" CONFIG_NAME="Debug" TOOLCHAIN_NAME="Visual Studio" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3bf2145c-cc58-4b43-93fc-bd52b55bd7c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-Visual Studio" />
+  <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_ON_COMMIT_AND_PUSH" value="false" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1WqbiESBU86T4eDjau67UvExWJY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="not_deaf_telephon" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="not_deaf_telephon" TARGET_NAME="not_deaf_telephon" CONFIG_NAME="Debug-Visual Studio" RUN_TARGET_PROJECT_NAME="not_deaf_telephon" RUN_TARGET_NAME="not_deaf_telephon">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3bf2145c-cc58-4b43-93fc-bd52b55bd7c8" name="Default Changelist" comment="" />
+      <created>1579880197575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579880197575</updated>
+      <workItem from="1579880201596" duration="5430000" />
+      <workItem from="1579893823842" duration="270000" />
+      <workItem from="1579895250829" duration="1126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="170" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579892800196">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="170" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.0.1299.768@67.0.1299.768" timestamp="1579892800196" />
+    <state x="496" y="139" key="FileChooserDialogImpl" timestamp="1579895594478">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="496" y="139" key="FileChooserDialogImpl/67.0.1299.768@67.0.1299.768" timestamp="1579895594478" />
+    <state width="1256" height="192" key="GridCell.Tab.0.bottom" timestamp="1579898076477">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1256" height="192" key="GridCell.Tab.0.bottom/67.0.1299.768@67.0.1299.768" timestamp="1579898076477" />
+    <state width="1256" height="192" key="GridCell.Tab.0.center" timestamp="1579898076477">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1256" height="192" key="GridCell.Tab.0.center/67.0.1299.768@67.0.1299.768" timestamp="1579898076477" />
+    <state width="1256" height="192" key="GridCell.Tab.0.left" timestamp="1579898076476">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1256" height="192" key="GridCell.Tab.0.left/67.0.1299.768@67.0.1299.768" timestamp="1579898076476" />
+    <state width="1256" height="192" key="GridCell.Tab.0.right" timestamp="1579898076477">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1256" height="192" key="GridCell.Tab.0.right/67.0.1299.768@67.0.1299.768" timestamp="1579898076477" />
+    <state x="217" y="27" key="SettingsEditor" timestamp="1579893112063">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="217" y="27" key="SettingsEditor/67.0.1299.768@67.0.1299.768" timestamp="1579893112063" />
+    <state x="413" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1579895256206">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="413" y="209" key="com.intellij.ide.util.TipDialog/67.0.1299.768@67.0.1299.768" timestamp="1579895256206" />
+  </component>
+</project>

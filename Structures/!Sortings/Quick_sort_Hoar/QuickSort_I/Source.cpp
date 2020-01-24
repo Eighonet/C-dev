@@ -46,5 +46,5 @@ int main()
 	{
 		cout << data[i] << " ";
 	}
-
+	cin >> a;
 }
