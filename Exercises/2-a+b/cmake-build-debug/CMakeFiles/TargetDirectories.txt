@@ -1,3 +1,0 @@
-C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/2.a+b/cmake-build-debug/CMakeFiles/2_a_b.dir
-C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/2.a+b/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/2.a+b/cmake-build-debug/CMakeFiles/rebuild_cache.dir

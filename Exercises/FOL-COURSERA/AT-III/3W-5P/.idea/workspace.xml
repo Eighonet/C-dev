@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="3W_5P" targetName="3W_5P" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98d11be2-0ff5-46d9-bff4-7b022363a28c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1Z4vWiUbpxnAJxsZW1Ay4b1Jw1d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Data-analysis/some trash" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="3W_5P" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="3W_5P" TARGET_NAME="3W_5P" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="3W_5P" RUN_TARGET_NAME="3W_5P">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98d11be2-0ff5-46d9-bff4-7b022363a28c" name="Default Changelist" comment="" />
+      <created>1584111213311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584111213311</updated>
+      <workItem from="1584111214844" duration="4486000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="493" y="140" key="FileChooserDialogImpl" timestamp="1584113144866">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="493" y="140" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1584113144866" />
+    <state width="1243" height="236" key="GridCell.Tab.0.bottom" timestamp="1584156313662">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1243" height="236" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1584156313662" />
+    <state width="1243" height="236" key="GridCell.Tab.0.center" timestamp="1584156313662">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1243" height="236" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1584156313662" />
+    <state width="1243" height="236" key="GridCell.Tab.0.left" timestamp="1584156313662">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1243" height="236" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1584156313662" />
+    <state width="1243" height="236" key="GridCell.Tab.0.right" timestamp="1584156313662">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1243" height="236" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1584156313662" />
+    <state width="1243" height="236" key="GridCell.Tab.1.bottom" timestamp="1584156313662">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1243" height="236" key="GridCell.Tab.1.bottom/62.0.1304.768@62.0.1304.768" timestamp="1584156313662" />
+    <state width="1243" height="236" key="GridCell.Tab.1.center" timestamp="1584156313662">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1243" height="236" key="GridCell.Tab.1.center/62.0.1304.768@62.0.1304.768" timestamp="1584156313662" />
+    <state width="1243" height="236" key="GridCell.Tab.1.left" timestamp="1584156313662">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1243" height="236" key="GridCell.Tab.1.left/62.0.1304.768@62.0.1304.768" timestamp="1584156313662" />
+    <state width="1243" height="236" key="GridCell.Tab.1.right" timestamp="1584156313662">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1243" height="236" key="GridCell.Tab.1.right/62.0.1304.768@62.0.1304.768" timestamp="1584156313662" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

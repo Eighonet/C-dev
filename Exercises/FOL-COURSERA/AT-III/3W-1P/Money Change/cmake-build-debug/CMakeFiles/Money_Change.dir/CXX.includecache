@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/(F)Coursera/IC-IIIW/Money Change/main.cpp
+iostream
+-
+

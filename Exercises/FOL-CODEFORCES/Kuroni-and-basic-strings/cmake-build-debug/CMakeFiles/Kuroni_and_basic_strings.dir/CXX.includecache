@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/Kuroni-and-basic-strings/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+vector
+-
+

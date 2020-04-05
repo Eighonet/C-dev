@@ -1,0 +1,3 @@
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/Count-sybrectangles/cmake-build-debug/CMakeFiles/Count_sybrectangles.dir
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/Count-sybrectangles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/Count-sybrectangles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

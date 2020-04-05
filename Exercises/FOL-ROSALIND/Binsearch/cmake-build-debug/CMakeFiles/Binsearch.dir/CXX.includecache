@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/Binsearch/main.cpp
+fstream
+-
+iostream
+-
+vector
+-
+

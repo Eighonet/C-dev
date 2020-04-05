@@ -1,0 +1,3 @@
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/Kuroni-and-presents/cmake-build-debug/CMakeFiles/Kuroni_and_presents.dir
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/Kuroni-and-presents/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/Kuroni-and-presents/cmake-build-debug/CMakeFiles/rebuild_cache.dir

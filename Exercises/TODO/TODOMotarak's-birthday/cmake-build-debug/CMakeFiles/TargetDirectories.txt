@@ -1,0 +1,3 @@
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/Motarak's-birthday/cmake-build-debug/CMakeFiles/Motarak_s_birthday.dir
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/Motarak's-birthday/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/Motarak's-birthday/cmake-build-debug/CMakeFiles/rebuild_cache.dir

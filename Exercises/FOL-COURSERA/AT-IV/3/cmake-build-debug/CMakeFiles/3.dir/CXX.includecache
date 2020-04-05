@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/GoogleDrive/SDA/C-dev/Exercises/FOL-COURSERA/IV/3/main.cpp
+iostream
+-
+vector
+-
+

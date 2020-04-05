@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Kuroni_and_basic_strings" targetName="Kuroni_and_basic_strings" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3edc9514-76af-4ee9-a364-20b27a788219" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1YcRtz9g7YbQUuX6luTVQlJell7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Alternative-rules/main.cpp" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Kuroni_and_basic_strings" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Kuroni_and_basic_strings" TARGET_NAME="Kuroni_and_basic_strings" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Kuroni_and_basic_strings" RUN_TARGET_NAME="Kuroni_and_basic_strings">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3edc9514-76af-4ee9-a364-20b27a788219" name="Default Changelist" comment="" />
+      <created>1583240114435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583240114435</updated>
+      <workItem from="1583240116244" duration="6884000" />
+      <workItem from="1583262086329" duration="5864000" />
+      <workItem from="1583269907164" duration="19000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="250" y="61" key="FileChooserDialogImpl" timestamp="1583269856431">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="250" y="61" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1583269856431" />
+    <state width="1261" height="239" key="GridCell.Tab.0.bottom" timestamp="1583269881090">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1583269881090" />
+    <state width="1261" height="239" key="GridCell.Tab.0.center" timestamp="1583269881090">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1583269881090" />
+    <state width="1261" height="239" key="GridCell.Tab.0.left" timestamp="1583269881089">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1583269881089" />
+    <state width="1261" height="239" key="GridCell.Tab.0.right" timestamp="1583269881090">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1583269881090" />
+    <state width="1261" height="239" key="GridCell.Tab.1.bottom" timestamp="1583269881091">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.1.bottom/62.0.1304.768@62.0.1304.768" timestamp="1583269881091" />
+    <state width="1261" height="239" key="GridCell.Tab.1.center" timestamp="1583269881090">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.1.center/62.0.1304.768@62.0.1304.768" timestamp="1583269881090" />
+    <state width="1261" height="239" key="GridCell.Tab.1.left" timestamp="1583269881090">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.1.left/62.0.1304.768@62.0.1304.768" timestamp="1583269881090" />
+    <state width="1261" height="239" key="GridCell.Tab.1.right" timestamp="1583269881091">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="239" key="GridCell.Tab.1.right/62.0.1304.768@62.0.1304.768" timestamp="1583269881091" />
+    <state x="410" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1583269908809">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="410" y="209" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1583269908809" />
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583267885212">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup/62.0.1304.768@62.0.1304.768" timestamp="1583267885212" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>92</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/main.cpp</url>
+          <line>22</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

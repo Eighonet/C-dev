@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/GoogleDrive/SDA/C-dev/Exercises/K-beatiful-string/main.cpp
+iostream
+-
+iostream
+-
+vector
+-
+string
+-
+

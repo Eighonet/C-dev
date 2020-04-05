@@ -1,0 +1,3 @@
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/D/cmake-build-debug/CMakeFiles/D.dir
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/D/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/D/cmake-build-debug/CMakeFiles/rebuild_cache.dir

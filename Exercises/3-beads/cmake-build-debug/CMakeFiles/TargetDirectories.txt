@@ -1,3 +1,0 @@
-C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/3.beads/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/3.beads/cmake-build-debug/CMakeFiles/3_beads.dir
-C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/3.beads/cmake-build-debug/CMakeFiles/rebuild_cache.dir

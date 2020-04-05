@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="E_for_eratosphen"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="E_for_eratosphen">
+				<Option output="C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/E_for_eratosphen.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 E_for_eratosphen"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="E_for_eratosphen/fast">
+				<Option output="C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/E_for_eratosphen.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/8.2.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 E_for_eratosphen/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/main.cpp">
+			<Option target="E_for_eratosphen"/>
+		</Unit>
+		<Unit filename="C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

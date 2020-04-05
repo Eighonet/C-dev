@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/GROUPCONTEST/C/main.cpp
+iostream
+-
+iomanip
+-
+vector
+-
+string
+-
+map
+-
+set
+-
+unordered_set
+-
+algorithm
+-
+queue
+-
+unordered_map
+-
+

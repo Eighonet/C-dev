@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/GoogleDrive/SDA/C-dev/Exercises/FOL-COURSERA/AT-IV/4/main.cpp
+iostream
+-
+limits
+-
+algorithm
+-
+

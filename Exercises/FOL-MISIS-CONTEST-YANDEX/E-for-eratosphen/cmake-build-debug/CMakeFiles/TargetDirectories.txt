@@ -1,0 +1,3 @@
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/CMakeFiles/E_for_eratosphen.dir
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/MISIS-CONTEST-YANDEX/E-for-eratosphen/cmake-build-debug/CMakeFiles/rebuild_cache.dir

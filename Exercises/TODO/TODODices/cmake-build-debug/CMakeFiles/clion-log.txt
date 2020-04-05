@@ -1,0 +1,22 @@
+"C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\eigho\GoogleDrive\SDA\C-dev\Exercises\Dices
+-- The C compiler identification is GNU 8.2.0
+-- The CXX compiler identification is GNU 8.2.0
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe
+-- Check for working C compiler: C:/MinGW/bin/gcc.exe -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: C:/MinGW/bin/g++.exe
+-- Check for working CXX compiler: C:/MinGW/bin/g++.exe -- works
+-- Detecting CXX compiler ABI info
+CMake Error: Unable to open check cache file for write. C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/Dices/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmake.check_cache
+CMake Error at C:/Program Files/JetBrains/CLion 2019.3.2/bin/cmake/win/share/cmake-3.15/Modules/CMakeDetermineCompilerABI.cmake:45 (try_compile):
+  Failed to configure test project build system.
+Call Stack (most recent call first):
+  C:/Program Files/JetBrains/CLion 2019.3.2/bin/cmake/win/share/cmake-3.15/Modules/CMakeTestCXXCompiler.cmake:67 (CMAKE_DETERMINE_COMPILER_ABI)
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/Dices/cmake-build-debug/CMakeFiles/CMakeOutput.log".

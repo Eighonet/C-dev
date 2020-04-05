@@ -1,3 +1,0 @@
-C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/not-deaf-telephon/cmake-build-debug-visual-studio/CMakeFiles/rebuild_cache.dir
-C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/not-deaf-telephon/cmake-build-debug-visual-studio/CMakeFiles/not_deaf_telephon.dir
-C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/not-deaf-telephon/cmake-build-debug-visual-studio/CMakeFiles/edit_cache.dir

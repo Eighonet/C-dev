@@ -1,0 +1,3 @@
+/cygdrive/e/GoogleDrive/SDA/C-dev/Pure-algorrithms/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/e/GoogleDrive/SDA/C-dev/Pure-algorrithms/cmake-build-debug/CMakeFiles/Pure_algorrithms.dir
+/cygdrive/e/GoogleDrive/SDA/C-dev/Pure-algorrithms/cmake-build-debug/CMakeFiles/edit_cache.dir

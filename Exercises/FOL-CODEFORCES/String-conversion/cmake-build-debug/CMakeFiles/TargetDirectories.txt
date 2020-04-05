@@ -1,0 +1,3 @@
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/String-conversion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/String-conversion/cmake-build-debug/CMakeFiles/String_conversion.dir
+C:/Users/eigho/GoogleDrive/SDA/C-dev/Exercises/String-conversion/cmake-build-debug/CMakeFiles/edit_cache.dir
